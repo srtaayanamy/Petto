@@ -22,3 +22,12 @@ Você pode baixar o APK diretamente pelo link abaixo:
 ## Documento de requisitos
 🔗 [Acesse o documento](https://docs.google.com/document/d/1wwbSQx1XB07dqOP-XF9yeprIGGiAdvOboyNJJ3mmh0g/edit?pli=1&tab=t.0)
 
+## 🙌 Créditos
+
+Este projeto foi desenvolvido em equipe como parte da disciplina de Programação para Dispositivos Móveis.
+
+- Anna Júlia de Sousa Felix
+- João Ítalo da Silva
+- Diego Henrique Rodrigues
+- Eduardo Vieira da Silva
+
